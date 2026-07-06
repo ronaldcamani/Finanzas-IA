@@ -1,0 +1,31 @@
+REPORTE FINANCIERO MENSUAL — FINANZAS INTELIGENTES SAC
+Periodo: Febrero 2026
+Consolidado de sucursales: Lima, Arequipa, Cusco
+
+1. INGRESOS POR SUCURSAL (S/)
+   - Lima:      512,000  (colocación de créditos: 345,000 | comisiones: 112,000 | otros: 55,000)
+   - Arequipa:  241,000  (colocación de créditos: 165,000 | comisiones: 58,000  | otros: 18,000)
+   - Cusco:     168,000  (colocación de créditos: 118,000 | comisiones: 40,000  | otros: 10,000)
+   TOTAL INGRESOS: 921,000
+
+2. GASTOS OPERATIVOS (S/)
+   - Planilla:            305,000
+   - Alquileres y servicios: 97,000
+   - Marketing:            55,000
+   - Tecnología:           41,000  (incluye renovación del core de créditos de Cusco)
+   - Provisiones por incobrables: 71,000
+   TOTAL GASTOS: 569,000
+
+3. UTILIDAD OPERATIVA: 352,000 (margen 38.2%)
+
+4. INDICADORES
+   - Cartera total: S/ 12.9 millones
+   - Mora > 30 días: 4.6%
+   - Clientes nuevos: 389 (Lima 205, Arequipa 98, Cusco 86)
+   - NPS promedio: 63
+
+5. OBSERVACIONES
+   - Cusco se recuperó tras estabilizar el sistema: ingresos +17.5% vs enero.
+   - Arequipa sigue afectada por la falta de analistas: colocación cayó 8.3% vs enero.
+     Se contrataron 2 reemplazos que inician en marzo.
+   - La mora subió 0.4 pp; el comité de riesgos ajustó el modelo de scoring.
